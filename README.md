@@ -106,7 +106,7 @@ Suhana Project/
 - Admin screens to add/update/delete/restock, now with curated image URLs per batch so storefront cards show real photography
 
 ## Screenshots
-- Dashboard view: ![Dashboard](docs/screenshots/Dashboard.png)
+- Dashboard view: ![Dashboard](docs/screenshots/Dashboard.ing)
 - Admin console: ![Admin Console](docs/screenshots/Admin.png)
 
 ## TDD & Testing
